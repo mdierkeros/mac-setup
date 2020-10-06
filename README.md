@@ -53,8 +53,9 @@
 - [3DConnexion 3DxWare](https://www.3dconnexion.de/service/drivers.html)
 - Apple Developer _via AppStore_
 - [Logic Pro X](http://apple.com) _via AppStore_
-- Reeder 4 _via Appstore_
+- [Reeder 4](https://reederapp.com/) _via Appstore_
 - [Logitech Capture - Beta](https://www.logitech.com/de-de/product/capture)
+- [Good Notes](https://www.goodnotes.com/features/) _via AppStore_
 
 ## Treiber
 
