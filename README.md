@@ -56,6 +56,7 @@
 - [Reeder 4](https://reederapp.com/) _via Appstore_
 - [Logitech Capture - Beta](https://www.logitech.com/de-de/product/capture)
 - [Good Notes](https://www.goodnotes.com/features/) _via AppStore_
+- [Raspberry Pi Imager](https://www.raspberrypi.org/downloads/)
 
 ## Treiber
 
@@ -126,6 +127,7 @@
 - MediathekView _via brew cask_
 - ruby
 - meld _via brew cask_
+- glow _via brew_
 
 ### node packages (global)
 
