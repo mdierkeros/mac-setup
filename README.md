@@ -1,5 +1,14 @@
 # Mac Book Pro 16" 2020 Setup
 
+## mac
+
+- Auslieferung mit 10.15.3
+- Update auf 10.15.4
+- Update auf 10.15.5
+- Update auf 10.15.6
+- Update auf 10.15.7
+- Upgrade auf Big Sur
+
 ## Software Installations
 
 - System Update auf 10.15.4
@@ -57,6 +66,9 @@
 - [Logitech Capture - Beta](https://www.logitech.com/de-de/product/capture)
 - [Good Notes](https://www.goodnotes.com/features/) _via AppStore_
 - [Raspberry Pi Imager](https://www.raspberrypi.org/downloads/)
+- Bose Updater
+- Bluetooth Explorer (from Additional Tools for XCode 11.4)
+- etreCheck _via AppStore_
 
 ## Treiber
 
@@ -120,14 +132,16 @@
 - docker _via brew casks_
 - mysql-client
 - fping
-- bat
+- bat - a cat clone
 - imageoptim _via brew cask_
 - cyberduck _via brew cask_
-- mdcat
+- mdcat - Markdown viewer
 - MediathekView _via brew cask_
 - ruby
 - meld _via brew cask_
-- glow _via brew_
+- glow - Markdown viewer
+- gfxcardstatus _via brew_
+- gh - Github CLI
 
 ### node packages (global)
 
@@ -150,5 +164,3 @@
 ### Software-Installation
 
 - Turbo Boost Switcher Pro
-
-## Daten Migration
