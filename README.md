@@ -69,6 +69,7 @@
 - Bose Updater
 - Bluetooth Explorer (from Additional Tools for XCode 11.4)
 - etreCheck _via AppStore_
+- [PDFtkServer](https://www.pdflabs.com/tools/pdftk-server/)
 
 ## Treiber
 
@@ -142,6 +143,9 @@
 - glow - Markdown viewer
 - gfxcardstatus _via brew_
 - gh - Github CLI
+- watch _via brew_
+- obs-virtual-cam _via_brew_
+- fx _via_brew_
 
 ### node packages (global)
 
@@ -164,3 +168,14 @@
 ### Software-Installation
 
 - Turbo Boost Switcher Pro
+
+## OS-Ugprades
+
+### macOS Big Sur
+
+#### not working anymore
+
+- Bartender 3 (Upgrade to Bartender 4 required)
+- Contour Shuttle
+- Space Mouse Wireless (Beta-Drivers required, don't work with Google Maps)
+- SwitchResX (logout after selecting a previously working profile)
