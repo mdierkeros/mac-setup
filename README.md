@@ -153,6 +153,9 @@
 - ts-node
 - typescript
 - nodemon
+- angular/cli
+- create-react-app
+- npkill
 
 ## Fonts
 
