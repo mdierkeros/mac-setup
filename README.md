@@ -141,11 +141,12 @@
 - ruby
 - meld _via brew cask_
 - glow - Markdown viewer
-- gfxcardstatus _via brew_
+- gfxcardstatus
 - gh - Github CLI
-- watch _via brew_
-- obs-virtual-cam _via_brew_
-- fx _via_brew_
+- watch
+- obs-virtual-cam
+- fx
+- geekbench
 
 ### node packages (global)
 
