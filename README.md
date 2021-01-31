@@ -147,6 +147,7 @@
 - obs-virtual-cam
 - fx
 - geekbench
+- runjs
 
 ### node packages (global)
 
