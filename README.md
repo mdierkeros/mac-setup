@@ -8,6 +8,8 @@
 - Update auf 10.15.6
 - Update auf 10.15.7
 - Upgrade auf Big Sur
+- Upgrade auf 11.1
+- Upgrade auf 11.2
 
 ## Software Installations
 
@@ -180,7 +182,5 @@
 
 #### not working anymore
 
-- Bartender 3 (Upgrade to Bartender 4 required)
-- Contour Shuttle
 - Space Mouse Wireless (Beta-Drivers required, don't work with Google Maps)
 - SwitchResX (logout after selecting a previously working profile)
