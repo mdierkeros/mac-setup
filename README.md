@@ -150,6 +150,8 @@
 - fx
 - geekbench
 - runjs
+- cloc
+- chromium
 
 ### node packages (global)
 

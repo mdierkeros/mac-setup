@@ -17,6 +17,7 @@ PACKAGES=(
     bdw-gc
     c-ares
     cairo
+    cloc
     dav1d
     docker
     docker-compose
