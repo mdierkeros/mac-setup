@@ -152,6 +152,7 @@
 - runjs
 - cloc
 - chromium
+- rsync
 
 ### node packages (global)
 
