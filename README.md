@@ -72,6 +72,8 @@
 - Bluetooth Explorer (from Additional Tools for XCode 11.4)
 - etreCheck _via AppStore_
 - [PDFtkServer](https://www.pdflabs.com/tools/pdftk-server/)
+- Unity 2021.1.0b8 (beta)
+- Visual Studio fo rMac
 
 ## Treiber
 
