@@ -153,6 +153,7 @@
 - cloc
 - chromium
 - rsync
+- unity-hub
 
 ### node packages (global)
 
