@@ -30,12 +30,14 @@ PACKAGES=(
     freetype
     frei0r
     fribidi
+    fs-uae
     fx
     gdbm
     gettext
     gh
     ghostscript
     giflib
+    glew
     glib
     glow
     gmp
@@ -58,6 +60,7 @@ PACKAGES=(
     libevent
     libffi
     libidn2
+    libmpeg2
     libogg
     libpng
     libsamplerate
@@ -73,6 +76,7 @@ PACKAGES=(
     libvpx
     libyaml
     little-cms2
+    lz4
     lzo
     mdcat
     mysql-client
@@ -91,14 +95,17 @@ PACKAGES=(
     pixman
     pkg-config
     pngquant
+    popt
     pybind11
     python@3.8
     python@3.9
     qpdf
     rav1e
     readline
+    rsync
     rtmpdump
     rubberband
+    sdl
     sdl2
     snappy
     speex
@@ -121,13 +128,16 @@ PACKAGES=(
     x264
     x265
     xvid
+    xxhash
     xz
     youtube-dl
     zeromq
     zimg
+    zstd
     alfred
     blender
     brave-browser
+    chromium
     cyberduck
     docker
     fs-uae
@@ -145,7 +155,7 @@ PACKAGES=(
     runjs
     skype
     steam
-    virtualbox
+    unity-hub
     vlc
 )
 

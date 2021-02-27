@@ -11,11 +11,15 @@ nvm install node
 
 # install global node packages
 
+## node tools
+npm install -g npkill
 npm install -g live-server
-npm install -g ts-node
-npm install -g typescript
 npm install -g nodemon
+
+## typescript
+npm install -g typescript
+npm install -g ts-node
+
+## angular & rect
 npm install -g angular/cli
 npm install -g create-react-app
-npm install -g npkill
-
