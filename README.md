@@ -156,6 +156,7 @@
 - chromium
 - rsync
 - unity-hub
+- htop
 
 ### node packages (global)
 
