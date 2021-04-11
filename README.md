@@ -157,6 +157,7 @@
 - rsync
 - unity-hub
 - htop
+- jq
 
 ### node packages (global)
 
