@@ -73,7 +73,8 @@
 - etreCheck _via AppStore_
 - [PDFtkServer](https://www.pdflabs.com/tools/pdftk-server/)
 - Unity 2021.1.0b8 (beta)
-- Visual Studio fo rMac
+- Visual Studio for Mac
+- flutter 2.0.5 SDK
 
 ## Treiber
 
