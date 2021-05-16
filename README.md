@@ -159,6 +159,8 @@
 - unity-hub
 - htop
 - jq
+- cocoapods
+- media-info
 
 ### node packages (global)
 
