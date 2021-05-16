@@ -161,6 +161,7 @@
 - jq
 - cocoapods
 - media-info
+- diff-pdf
 
 ### node packages (global)
 
