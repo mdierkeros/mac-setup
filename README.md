@@ -162,6 +162,7 @@
 - cocoapods
 - media-info
 - diff-pdf
+- landrop
 
 ### node packages (global)
 
