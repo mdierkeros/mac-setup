@@ -75,6 +75,9 @@
 - Unity 2021.1.0b8 (beta)
 - Visual Studio for Mac
 - flutter 2.0.5 SDK
+- [Rossmann Fotowelt Software](https://www.rossmann-fotowelt.de/fotosoftware-download)
+- Zavala _via AppStore_
+- zoom
 
 ## Treiber
 
