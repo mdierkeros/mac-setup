@@ -77,7 +77,8 @@
 - flutter 2.0.5 SDK
 - [Rossmann Fotowelt Software](https://www.rossmann-fotowelt.de/fotosoftware-download)
 - Zavala _via AppStore_
-- zoom
+- [zoom](https://explore.zoom.us/de/products/meetings/)
+- [Loupedeck 5.0.1](https://de.support.loupedeck.com/loupedeck-software-download)
 
 ## Treiber
 
@@ -85,6 +86,7 @@
 - [Shuttle Pro v2](https://contourdesign.de/support/treiber/)
 - [Canon EOS Utility for macOS](<https://www.canon.de/support/consumer_products/products/cameras/digital_slr/eos-80d.html?type=software&language=de&os=macos%2010.14%20(mojave)&softwaredescriptionid=tcm:83-1330031>)
 - [Wacom CTH-490PK](https://www.wacom.com/en-us/support/product-support/drivers)
+- [SB Command for Soundblaster X3](https://support.creative.com/Products/ProductDetails.aspx)
 
 ### Chrome Extensions
 
@@ -109,7 +111,11 @@
 - flutter
 - Partial Diff
 - [Cobalt2 Theme](https://github.com/wesbos/Cobalt2-iterm)
-- [SB Command for Soundblaster X3](https://support.creative.com/Products/ProductDetails.aspx)
+- GraphQL
+- CodeMetrics
+- LiveShare
+- Angular Language Service
+- Angular Schematics
 
 ### Brew
 
@@ -166,6 +172,9 @@
 - media-info
 - diff-pdf
 - landrop
+- postman
+- adobe-acrobat-reader
+- httpie
 
 ### node packages (global)
 
