@@ -79,6 +79,7 @@
 - Zavala _via AppStore_
 - [zoom](https://explore.zoom.us/de/products/meetings/)
 - [Loupedeck 5.0.1](https://de.support.loupedeck.com/loupedeck-software-download)
+- Kindle _via AppStore_
 
 ## Treiber
 
@@ -175,6 +176,7 @@
 - postman
 - adobe-acrobat-reader
 - httpie
+- [timer](https://www.apimac.com/mac/timer/)
 
 ### node packages (global)
 
