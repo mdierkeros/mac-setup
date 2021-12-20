@@ -177,6 +177,7 @@
 - adobe-acrobat-reader
 - httpie
 - [timer](https://www.apimac.com/mac/timer/)
+- electron-fiddle
 
 ### node packages (global)
 
