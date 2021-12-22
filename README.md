@@ -40,6 +40,9 @@
 - [Bartender](https://www.macbartender.com/)
 - [Microsoft Office 365](https://www.office.com/)
 - [Creative Cloud](https://www.adobe.com/ch_de/creativecloud.html)
+  - Photoshop
+  - Lightroom Classic
+  - Bridge
 - [SoundSource](https://rogueamoeba.com/soundsource/)
 - [Sketch](https://www.sketch.com/get/)
 - [Spotify](https://www.spotify.com/de/download/mac/)
