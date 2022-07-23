@@ -180,6 +180,7 @@
 - adobe-acrobat-reader
 - httpie
 - electron-fiddle
+- jc
 
 ### node packages (global)
 
