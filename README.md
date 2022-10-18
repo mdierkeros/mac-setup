@@ -181,6 +181,7 @@
 - httpie
 - electron-fiddle
 - jc
+- speedtest-cli
 
 ### node packages (global)
 
