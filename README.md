@@ -2,14 +2,10 @@
 
 ## mac
 
-- Auslieferung mit 10.15.3
-- Update auf 10.15.4
-- Update auf 10.15.5
-- Update auf 10.15.6
-- Update auf 10.15.7
-- Upgrade auf Big Sur
-- Upgrade auf 11.1
-- Upgrade auf 11.2
+- Auslieferung mit macOS 10 (Cataloing) 10.15.3
+- Upgrade auf macOS 11 (Big Sur)
+- Upgrade auf macOS 12 (Monterey)
+- Upgrade auf macOS 13 (Ventura)
 
 ## Software Installations
 
