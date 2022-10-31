@@ -198,3 +198,7 @@
 - Source Code Pro
 - [JetBrains Mono](https://www.jetbrains.com/lp/mono/#how-to-install)
 - [Powerline Fonts](https://github.com/powerline/fonts)
+
+## Photoshop Plugins
+
+- [Webp](https://github.com/webmproject/WebPShop#installation)
