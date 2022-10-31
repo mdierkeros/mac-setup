@@ -79,14 +79,15 @@
 - [zoom](https://explore.zoom.us/de/products/meetings/)
 - [Loupedeck 5.0.1](https://de.support.loupedeck.com/loupedeck-software-download)
 - Kindle _via AppStore_
+- [Turbo Boost Switcher Pro](http://tbswitcher.rugarciap.com/)
 
 ## Treiber
 
-- [Epson Scanner Driver and Epson Scan 2 Utility](https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-WF-3620/s/SPT_C11CD19201)
 - [Shuttle Pro v2](https://contourdesign.de/support/treiber/)
 - [Canon EOS Utility for macOS](<https://www.canon.de/support/consumer_products/products/cameras/digital_slr/eos-80d.html?type=software&language=de&os=macos%2010.14%20(mojave)&softwaredescriptionid=tcm:83-1330031>)
 - [Wacom CTH-490PK](https://www.wacom.com/en-us/support/product-support/drivers)
 - [SB Command for Soundblaster X3](https://support.creative.com/Products/ProductDetails.aspx)
+- Canon MB 5100 series komplettes Treiberpaket [https://www.canon.de/support/consumer_products/products/fax__multifunctionals/inkjet/maxify_mb_series/maxify_mb5150.html?type=download&language=&os=macos%2010.15%20(catalina)]
 
 ### Chrome Extensions
 
