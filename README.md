@@ -179,6 +179,7 @@
 - electron-fiddle
 - jc
 - speedtest-cli
+- arc
 
 ### node packages (global)
 
