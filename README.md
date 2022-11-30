@@ -180,6 +180,7 @@
 - jc
 - speedtest-cli
 - arc
+- pwgen
 
 ### node packages (global)
 
@@ -203,3 +204,7 @@
 ## Photoshop Plugins
 
 - [Webp](https://github.com/webmproject/WebPShop#installation)
+
+## Lightroom Plugin
+
+- [Teekesselchen](http://www.bungenstock.de/teekesselchen/)
