@@ -80,6 +80,7 @@
 - [Loupedeck 5.0.1](https://de.support.loupedeck.com/loupedeck-software-download)
 - Kindle _via AppStore_
 - [Turbo Boost Switcher Pro](http://tbswitcher.rugarciap.com/)
+- [SpyderX Pro Software](https://spyderx.datacolor.com/de/activate/?pk_campaign=goto.datacolor.com&pk_kwd=/getspyderx)
 
 ## Treiber
 
@@ -181,6 +182,7 @@
 - speedtest-cli
 - arc
 - pwgen
+- [db-browser-for-sqlite](https://sqlitebrowser.org/)
 
 ### node packages (global)
 
