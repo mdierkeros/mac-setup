@@ -94,8 +94,9 @@
 
 - [1Password](https://1password.com/downloads/mac/#browsers)
 - [Privacy Badger](https://privacybadger.org/)
-- Save to Pocket
+- [Save to Pocket](https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj)
 - Pinboard
+- [Picture-in-Picture Extension (by Google)](https://chrome.google.com/webstore/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg)
 
 ### Firefox Extensions
 
