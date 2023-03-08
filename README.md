@@ -184,6 +184,9 @@
 - arc
 - pwgen
 - [db-browser-for-sqlite](https://sqlitebrowser.org/)
+- [warp](https://www.warp.dev/)
+- ImageMagick
+- [rustdesk](https://rustdesk.com/)
 
 ### node packages (global)
 
