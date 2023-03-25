@@ -187,6 +187,7 @@
 - [warp](https://www.warp.dev/)
 - ImageMagick
 - [rustdesk](https://rustdesk.com/)
+- [rg](https://github.com/BurntSushi/ripgrep)
 
 ### node packages (global)
 
