@@ -188,6 +188,8 @@
 - ImageMagick
 - [rustdesk](https://rustdesk.com/)
 - [rg](https://github.com/BurntSushi/ripgrep)
+- [fzf](https://github.com/junegunn/fzf)
+- mongosh
 
 ### node packages (global)
 
