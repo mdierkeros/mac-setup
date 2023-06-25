@@ -190,6 +190,7 @@
 - [rg](https://github.com/BurntSushi/ripgrep)
 - [fzf](https://github.com/junegunn/fzf)
 - mongosh
+- [anaconda](https://www.anaconda.com/)
 
 ### node packages (global)
 
