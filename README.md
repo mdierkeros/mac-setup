@@ -191,6 +191,7 @@
 - [fzf](https://github.com/junegunn/fzf)
 - mongosh
 - [anaconda](https://www.anaconda.com/)
+- [hurl](https://hurl.dev)
 
 ### node packages (global)
 
