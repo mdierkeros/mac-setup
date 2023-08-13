@@ -192,6 +192,7 @@
 - mongosh
 - [anaconda](https://www.anaconda.com/)
 - [hurl](https://hurl.dev)
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
 ### node packages (global)
 
