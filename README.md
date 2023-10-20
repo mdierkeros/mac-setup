@@ -193,6 +193,7 @@
 - [anaconda](https://www.anaconda.com/)
 - [hurl](https://hurl.dev)
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+- java
 
 ### node packages (global)
 
