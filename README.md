@@ -195,6 +195,7 @@
 - [hurl](https://hurl.dev)
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 - java
+- erlang
 
 ### node packages (global)
 
