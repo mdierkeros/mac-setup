@@ -81,7 +81,8 @@
 - Kindle _via AppStore_
 - [Turbo Boost Switcher Pro](http://tbswitcher.rugarciap.com/)
 - [SpyderX Pro Software](https://spyderx.datacolor.com/de/activate/?pk_campaign=goto.datacolor.com&pk_kwd=/getspyderx)
-- [Microsoft Remote Desktop][https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466?mt=12?mt=12] _via AppStore_
+- [Microsoft Remote Desktop](https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466?mt=12?mt=12) _via AppStore_
+- [SwitchResX](https://www.madrau.com/)
 
 ## Treiber
 
@@ -196,6 +197,7 @@
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 - java
 - erlang
+- [Discord](https://discord.com/)
 
 ### node packages (global)
 
