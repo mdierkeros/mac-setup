@@ -14,23 +14,11 @@
 - [Mozilla Firefox Developer Edition](https://www.mozilla.org/de/firefox/developer/) (english)
 - [Google Chrome](https://www.google.com/intl/de/chrome/)
 - [Google Chrome Canary](https://www.google.com/intl/de/chrome/canary/)
-- Final Cut Pro X 10.4.8 _via AppStore_
-- XCode 11.4.1 _via AppStore_
 - [Visual Studio Code](https://code.visualstudio.com)
 - [iTerm](https://www.iterm2.com)
 - [Dropbox](https://www.dropbox.com/install#downloaded)
 - [1Password](https://1password.com/downloads/mac/)
 - [Google Earth Pro](https://www.google.de/earth/download/gep/agree.html)
-- Tweetbot 3 for Twitter _via AppStore_
-- Soulver _via AppStore_
-- Tooth Fairy _via AppStore_
-- Buy me a pie _via AppStore_
-- Motion _via AppStore_
-- MoneyControl _via AppStore_
-- Deliveries _via AppStore_
-- Weather Pro _via AppStore_
-- Shazam _via AppStore_
-- Feedly _via AppStore_
 - [brew](https://brew.sh/)
 - [IStatMenus](https://bjango.com/mac/istatmenus/)
 - [Bartender](https://www.macbartender.com/)
@@ -61,28 +49,43 @@
 - [Google Backup and Sync](https://www.google.com/drive/download/)
 - [Open Emu Experimental](https://openemu.org/)
 - [3DConnexion 3DxWare](https://www.3dconnexion.de/service/drivers.html)
-- Apple Developer _via AppStore_
-- [Logic Pro X](http://apple.com) _via AppStore_
-- [Reeder 4](https://reederapp.com/) _via Appstore_
 - [Logitech Capture - Beta](https://www.logitech.com/de-de/product/capture)
-- [Good Notes](https://www.goodnotes.com/features/) _via AppStore_
 - [Raspberry Pi Imager](https://www.raspberrypi.org/downloads/)
 - Bose Updater
 - Bluetooth Explorer (from Additional Tools for XCode 11.4)
-- etreCheck _via AppStore_
 - [PDFtkServer](https://www.pdflabs.com/tools/pdftk-server/)
 - Unity 2021.1.0b8 (beta)
 - Visual Studio for Mac
 - flutter 2.0.5 SDK
 - [Rossmann Fotowelt Software](https://www.rossmann-fotowelt.de/fotosoftware-download)
-- Zavala _via AppStore_
 - [zoom](https://explore.zoom.us/de/products/meetings/)
 - [Loupedeck 5.0.1](https://de.support.loupedeck.com/loupedeck-software-download)
-- Kindle _via AppStore_
 - [Turbo Boost Switcher Pro](http://tbswitcher.rugarciap.com/)
 - [SpyderX Pro Software](https://spyderx.datacolor.com/de/activate/?pk_campaign=goto.datacolor.com&pk_kwd=/getspyderx)
-- [Microsoft Remote Desktop](https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466?mt=12?mt=12) _via AppStore_
 - [SwitchResX](https://www.madrau.com/)
+
+## App Store
+
+- Final Cut Pro X 10.4.8
+- XCode 11.4.1
+- Tweetbot 3 for Twitter
+- Soulver
+- Tooth Fairy
+- Buy me a pie
+- Motion
+- MoneyControl
+- Deliveries
+- Weather Pro
+- Shazam
+- Feedly
+- Apple Developer
+- [Logic Pro X](http://apple.com)
+- [Reeder 4](https://reederapp.com/)
+- [Good Notes](https://www.goodnotes.com/features/)
+- etreCheck
+- Zavala
+- Kindle
+- [Microsoft Remote Desktop](https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466?mt=12?mt=12)
 
 ## Treiber
 
