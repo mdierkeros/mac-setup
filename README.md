@@ -164,15 +164,15 @@
 - gh - Github CLI
 - watch
 - obs-virtual-cam
-- fx
+- [fx](https://fx.wtf/) Terminal JSON viewer & processor
 - geekbench
-- runjs
+- [RunJS](https://runjs.app/)
 - cloc
 - chromium
 - rsync
 - unity-hub
-- htop
-- jq
+- [htop](https://htop.dev/)
+- [jq](https://jqlang.github.io/jq/)
 - cocoapods
 - media-info
 - diff-pdf
@@ -181,9 +181,9 @@
 - adobe-acrobat-reader
 - httpie
 - electron-fiddle
-- jc
+- [jc](https://github.com/kellyjonbrazil/jc) - JSON Convet
 - speedtest-cli
-- arc
+- [arc](https://arc.net/)
 - pwgen
 - [db-browser-for-sqlite](https://sqlitebrowser.org/)
 - [warp](https://www.warp.dev/)
@@ -191,13 +191,15 @@
 - [rustdesk](https://rustdesk.com/)
 - [rg](https://github.com/BurntSushi/ripgrep)
 - [fzf](https://github.com/junegunn/fzf)
-- mongosh
+- [mongosh](https://github.com/mongodb-js/mongosh#readme)
 - [anaconda](https://www.anaconda.com/)
 - [hurl](https://hurl.dev)
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 - java
-- erlang
+- [erlang](https://www.erlang.org/)
+- [rust](https://www.rust-lang.org/)
 - [Discord](https://discord.com/)
+- [KnockKnock](https://objective-see.org/products/knockknock.html)
 
 ### node packages (global)
 
