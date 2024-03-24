@@ -185,7 +185,7 @@
 - adobe-acrobat-reader
 - httpie
 - electron-fiddle
-- [jc](https://github.com/kellyjonbrazil/jc) - JSON Convet
+- [jc](https://github.com/kellyjonbrazil/jc) - JSON Convert
 - speedtest-cli
 - [arc](https://arc.net/)
 - pwgen
@@ -204,6 +204,7 @@
 - [rust](https://www.rust-lang.org/)
 - [Discord](https://discord.com/)
 - [KnockKnock](https://objective-see.org/products/knockknock.html)
+- [d2](https://d2lang.com/)
 
 ### node packages (global)
 
