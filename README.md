@@ -64,6 +64,14 @@
 - [SpyderX Pro Software](https://spyderx.datacolor.com/de/activate/?pk_campaign=goto.datacolor.com&pk_kwd=/getspyderx)
 - [SwitchResX](https://www.madrau.com/)
 
+## Manual installations
+
+### Rust
+
+```sh
+rustup `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
+```
+
 ## App Store
 
 - Final Cut Pro X 10.4.8
@@ -126,6 +134,8 @@
 - LiveShare
 - Angular Language Service
 - Angular Schematics
+- [CodeLLDB](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb) für Rust
+- [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer) für Rust
 
 ### Brew
 
@@ -202,7 +212,6 @@
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 - java
 - [erlang](https://www.erlang.org/)
-- [rust](https://www.rust-lang.org/)
 - [Discord](https://discord.com/)
 - [KnockKnock](https://objective-see.org/products/knockknock.html)
 - [d2](https://d2lang.com/)
