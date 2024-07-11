@@ -215,6 +215,7 @@ rustup `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
 - [Discord](https://discord.com/)
 - [KnockKnock](https://objective-see.org/products/knockknock.html)
 - [d2](https://d2lang.com/)
+- [Sequel Ace](https://sequel-ace.com/)
 
 ### node packages (global)
 
