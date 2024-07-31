@@ -21,7 +21,7 @@
 - [Google Earth Pro](https://www.google.de/earth/download/gep/agree.html)
 - [brew](https://brew.sh/)
 - [IStatMenus](https://bjango.com/mac/istatmenus/)
-- [Bartender](https://www.macbartender.com/)
+- ~~[Bartender](https://www.macbartender.com/)~~
 - [Microsoft Office 365](https://www.office.com/)
 - [Creative Cloud](https://www.adobe.com/ch_de/creativecloud.html)
   - Photoshop
