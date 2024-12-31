@@ -6,6 +6,8 @@
 - Upgrade auf macOS 11 (Big Sur)
 - Upgrade auf macOS 12 (Monterey)
 - Upgrade auf macOS 13 (Ventura)
+- Upgrade auf macOS 14 (Sonoma)
+- Upgrade auf macOS 15 (Sequoia)
 
 ## Software Installations
 
@@ -17,7 +19,7 @@
 - [Visual Studio Code](https://code.visualstudio.com)
 - [iTerm](https://www.iterm2.com)
 - [Dropbox](https://www.dropbox.com/install#downloaded)
-- [1Password](https://1password.com/downloads/mac/)
+- [1Password 7](https://1password.com/downloads/mac/)
 - [Google Earth Pro](https://www.google.de/earth/download/gep/agree.html)
 - [brew](https://brew.sh/)
 - [IStatMenus](https://bjango.com/mac/istatmenus/)
@@ -35,7 +37,7 @@
 - PyCharm Community Edition _via Jetbrains toolbox_
 - AppCode _via Jetbrains toolbox_
 - [MoneyMoney](https://moneymoney-app.com/download/)
-- [Arq 5 for Mac](https://www.arqbackup.com/download/)
+- ~~[Arq 5 for Mac](https://www.arqbackup.com/download/)~~ Upgraded to v7
 - [MoneyMoney](https://moneymoney-app.com/download/)
 - [Dash 4](https://frankfurt.kapeli.com/downloads/v4/Dash.zip)
 - [moom](https://manytricks.com/download/moom)
@@ -56,13 +58,15 @@
 - [PDFtkServer](https://www.pdflabs.com/tools/pdftk-server/)
 - Unity 2021.1.0b8 (beta)
 - Visual Studio for Mac
-- flutter 2.0.5 SDK
+- ~~flutter 2.0.5 SDK~~
 - [Rossmann Fotowelt Software](https://www.rossmann-fotowelt.de/fotosoftware-download)
 - [zoom](https://explore.zoom.us/de/products/meetings/)
 - [Loupedeck 5.0.1](https://de.support.loupedeck.com/loupedeck-software-download)
 - [Turbo Boost Switcher Pro](http://tbswitcher.rugarciap.com/)
 - [SpyderX Pro Software](https://spyderx.datacolor.com/de/activate/?pk_campaign=goto.datacolor.com&pk_kwd=/getspyderx)
 - [SwitchResX](https://www.madrau.com/)
+- [DaisyDisk](https://daisydiskapp.com/)
+- [Arq 7 for Mac](https://www.arqbackup.com/download/)
 
 ## Manual installations
 
