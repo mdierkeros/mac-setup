@@ -59,6 +59,7 @@
 - Unity 2021.1.0b8 (beta)
 - Visual Studio for Mac
 - ~~flutter 2.0.5 SDK~~
+- flutter 3.3.0 SDK
 - [Rossmann Fotowelt Software](https://www.rossmann-fotowelt.de/fotosoftware-download)
 - [zoom](https://explore.zoom.us/de/products/meetings/)
 - [Loupedeck 5.0.1](https://de.support.loupedeck.com/loupedeck-software-download)
