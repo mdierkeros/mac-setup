@@ -223,6 +223,7 @@ rustup `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
 - [d2](https://d2lang.com/)
 - [Sequel Ace](https://sequel-ace.com/)
 - [Vanilla](https://matthewpalmer.net/vanilla/)
+- [neovim](https://neovim.io/)
 
 ### node packages (global)
 
