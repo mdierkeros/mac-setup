@@ -19,7 +19,7 @@
 - [Visual Studio Code](https://code.visualstudio.com)
 - [iTerm](https://www.iterm2.com)
 - [Dropbox](https://www.dropbox.com/install#downloaded)
-- [1Password 7](https://1password.com/downloads/mac/)
+- ~~[1Password 7](https://1password.com/downloads/mac/)~~
 - [Google Earth Pro](https://www.google.de/earth/download/gep/agree.html)
 - [brew](https://brew.sh/)
 - [IStatMenus](https://bjango.com/mac/istatmenus/)
@@ -68,6 +68,7 @@
 - [SwitchResX](https://www.madrau.com/)
 - [DaisyDisk](https://daisydiskapp.com/)
 - [Arq 7 for Mac](https://www.arqbackup.com/download/)
+- [1Password 8](https://1password.com/downloads/mac)
 
 ## Manual installations
 
@@ -117,12 +118,17 @@ rustup `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
 - [Privacy Badger](https://privacybadger.org/)
 - [Save to Pocket](https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj)
 - Pinboard
-- [Picture-in-Picture Extension (by Google)](https://chrome.google.com/webstore/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg)
+- [Picture-in-Picture Extension (by Google)](https://chrome.google.com/webstore/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg)[- [1Password 8](https://1password.com/downloads/browser-extension)
 
 ### Firefox Extensions
 
 - [1Password](https://1password.com/browsers/firefox/)
 - [Privacy Badger](https://privacybadger.org/)
+- [1Password 8](https://1password.com/downloads/browser-extension)
+
+### Safari Extensions
+
+- [1Password 8](https://1password.com/downloads/browser-extension) **via AppStore**
 
 ### VS Code Extension
 
