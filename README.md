@@ -69,6 +69,7 @@
 - [DaisyDisk](https://daisydiskapp.com/)
 - [Arq 7 for Mac](https://www.arqbackup.com/download/)
 - [1Password 8](https://1password.com/downloads/mac)
+- [Logitech G HUB](https://www.logitechg.com/de-de/innovation/g-hub.html) - Nachfolger für Logi Capture
 
 ## Manual installations
 
