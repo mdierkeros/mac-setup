@@ -105,6 +105,7 @@ rustup `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
 - [tailscale](https://tailscale.com/)
 - [wireguard](https://www.wireguard.com/)
 - [streaks](https://streaksapp.com/)
+- [Steam Link](https://store.steampowered.com/app/353380/Steam_Link/)
 
 ## Treiber
 
