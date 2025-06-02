@@ -233,6 +233,7 @@ rustup `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
 - [Sequel Ace](https://sequel-ace.com/)
 - [Vanilla](https://matthewpalmer.net/vanilla/)
 - [neovim](https://neovim.io/)
+- [zen](https://zen-browser.app/)
 
 ### node packages (global)
 
