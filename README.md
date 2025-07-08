@@ -106,6 +106,7 @@ rustup `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
 - [wireguard](https://www.wireguard.com/)
 - [streaks](https://streaksapp.com/)
 - [Steam Link](https://store.steampowered.com/app/353380/Steam_Link/)
+- [Docker Desktop](https://www.docker.com/)
 
 ## Treiber
 
@@ -176,10 +177,10 @@ rustup `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
 - pandoc
 - steam _via brew cask_
 - unrar
-- docker
-- docker-machine
-- docker-compose
-- docker _via brew casks_
+- ~~docker~~
+- ~~docker-machine~~
+- ~~docker-compose~~
+- ~~docker \_via brew casks~~ am 8.7.2025 durch Docker Desktop ersetzt
 - mysql-client
 - fping
 - bat - a cat clone
