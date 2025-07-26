@@ -236,6 +236,7 @@ rustup `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
 - [neovim](https://neovim.io/)
 - [zen](https://zen-browser.app/)
 - [Transmission](https://transmissionbt.com/) - Bittorent Client
+- [restic](https://restic.net/)
 
 ### node packages (global)
 
