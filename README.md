@@ -237,6 +237,7 @@ rustup `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
 - [zen](https://zen-browser.app/)
 - [Transmission](https://transmissionbt.com/) - Bittorent Client
 - [restic](https://restic.net/)
+- [MongoDB Compass](https://www.mongodb.com/products/tools/compass)
 
 ### node packages (global)
 
