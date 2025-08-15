@@ -240,6 +240,7 @@ rustup `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
 - [MongoDB Compass](https://www.mongodb.com/products/tools/compass)
 - [rclone](https://rclone.org/)
 - figlet
+- ncdu
 
 ### node packages (global)
 
