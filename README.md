@@ -239,8 +239,9 @@ rustup `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
 - [restic](https://restic.net/)
 - [MongoDB Compass](https://www.mongodb.com/products/tools/compass)
 - [rclone](https://rclone.org/)
-- figlet
-- ncdu
+- [figlet](https://www.figlet.org/)
+- [ncdu](https://dev.yorhel.nl/ncdu)
+- [lynx](https://invisible-island.net/lynx/)
 
 ### node packages (global)
 
