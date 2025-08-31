@@ -242,6 +242,7 @@ rustup `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
 - [figlet](https://www.figlet.org/)
 - [ncdu](https://dev.yorhel.nl/ncdu)
 - [lynx](https://invisible-island.net/lynx/)
+- [dadroit-json-viewer](https://dadroit.com/))
 
 ### node packages (global)
 
