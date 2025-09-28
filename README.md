@@ -244,6 +244,8 @@ rustup `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
 - [lynx](https://invisible-island.net/lynx/)
 - [dadroit-json-viewer](https://dadroit.com/))
 - [openai-whisper](https://github.com/openai/whisper)
+- [handbrake](https://handbrake.fr/)
+- [handbrake-app](https://handbrake.fr/)
 
 ### node packages (global)
 
