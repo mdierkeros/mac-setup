@@ -243,6 +243,7 @@ rustup `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
 - [ncdu](https://dev.yorhel.nl/ncdu)
 - [lynx](https://invisible-island.net/lynx/)
 - [dadroit-json-viewer](https://dadroit.com/))
+- [openai-whisper](https://github.com/openai/whisper)
 
 ### node packages (global)
 
